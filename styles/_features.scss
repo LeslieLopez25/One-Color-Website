@@ -1,5 +1,5 @@
 .features-container {
-    background: #323232;
+    background: hsl(221.1, 8.3%, 55.1%);
     position: relative;
     z-index: 0;
     overflow: hidden;
@@ -14,24 +14,24 @@
 }
 
 .features {
-    min-height: 90vh;
-    width: 80%;
-    margin: auto;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    margin: auto;
+    width: 80%;
+    min-height: 90vh;
 
     .cards {
         display: flex;
         justify-content: space-between;
-        color: black;
+        color: hsl(0, 0%, 3.1%);
 
         .card {
-            background: white;
-            margin: 0rem 3rem;
             display: flex;
             flex-direction: column;
+            background: hsl(0, 0%, 100%);
             text-align: center;
+            margin: 0rem 3rem;
             border-radius: 2rem;
             overflow: hidden;
 

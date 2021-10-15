@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  color: white;
+  color: hsl(0, 0%, 100%);
   font-family: "Montserrat", sans-serif;
 }
 
@@ -42,7 +42,7 @@ li {
 }
 
 a {
-  color: white;
+  color: hsl(0, 0%, 100%);
   text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ a {
 @import "soon";
 @import "footer";
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 75em) {
   html {
     font-size: 50%;
   }
@@ -79,8 +79,8 @@ a {
     img,
     h2,
     .info {
-      grid-column: 2/3;
       text-align: center;
+      grid-column: 2/3;
     }
   }
 

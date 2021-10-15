@@ -1,35 +1,36 @@
 footer {
-  min-height: 10vh;
-  background: black;
-  padding-left: 10%;
-  padding-right: 10%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+    display: -webkit-box;
+    display: -moz-flexbox;
+    justify-content: space-between;
+    -webkit-box-pack: justify;
+    -moz-flex-pack: justify;
+    align-items: center;
+    -webkit-box-align: center;
+    -moz-flex-align: center;
+    display: flex;
+    background: hsl(0, 0%, 3.1%);
+    padding-left: 10%;
+    padding-right: 10%;
+    min-height: 10vh;
 }
 
 footer ul {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  list-style: none;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+    display: flex;
+    display: -webkit-box;
+    display: -moz-flexbox;
+    justify-content: space-between;
+    -webkit-box-pack: justify;
+    -moz-flex-pack: justify;
+    -webkit-box-flex: 1;
+    -moz-flex: 1;
+    flex: 1;
+    list-style: none;
 }
 
 footer h1 {
-  -webkit-box-flex: 3;
-      -ms-flex: 3;
-          flex: 3;
+    -webkit-box-flex: 3;
+    -moz-flex: 3;
+    flex: 3;
 }
+
 /*# sourceMappingURL=footer.css.map */
