@@ -6,7 +6,7 @@
 
 ### Link
 
-- Live Site: [Leica Website](https://leslielopez25.github.io/One-Color-Website/)
+- Live Site: [Leica Website]()
 
 ### Screenshot
 
