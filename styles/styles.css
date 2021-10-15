@@ -223,7 +223,7 @@ nav .order {
   text-align: center;
   border-radius: 2rem;
   overflow: hidden;
-  height: 40rem;
+  height: 20rem;
 }
 
 .features .cards .card h4 {
@@ -381,8 +381,8 @@ footer small {
   }
 
   .soon img {
-    width: 70%;
-    height: 70%;
+    width: 80%;
+    height: 80%;
     position: absolute;
     top: 12rem;
     left: 8rem;
