@@ -265,13 +265,13 @@ nav .order {
 .soon h2 {
   top: 61%;
   font-size: 6.5rem;
-  left: 98rem;
+  left: 80rem;
 }
 
 .soon img {
   position: absolute;
   top: 1.87rem;
-  left: 60rem;
+  left: 40rem;
   transform: scaleX(-1);
 }
 
